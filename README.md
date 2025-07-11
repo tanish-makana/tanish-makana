@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanish</h1>
-<h3 align="center">Cybersecurity Enthusiast | Trader | Lifelong Learner</h3>
+<h3 align="center">Cybersecurity Student | Penetration Tester | SOC </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFD5&center=true&vCenter=true&multiline=true&width=600&lines=Cybersecurity+Student+%26+SOC+Analyst+Trainee;Building+a+trading+floor+by+2028;Learning+API+Security+%7C+Cloud+Security+%7C+Reverse+Engineering" alt="Typing SVG" />
-</p>
+</p> <br>
 
 ---
 
