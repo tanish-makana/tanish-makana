@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a cybersecurity professional with hands-on experience in SOC operations, threat analysis, and penetration testing. I recently completed a six-month internship at **Linearloop**, where I worked on log monitoring, phishing investigation, and threat intelligence tasks.
+I am a cybersecurity professional with hands-on experience in SOC operations, threat analysis, and penetration testing. I recently completed a four-month internship at **Linearloop** where i discovered critical bugs and developed professional reports including relevant PoC's.
 
 ### Certifications
 
