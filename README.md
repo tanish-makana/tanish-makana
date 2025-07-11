@@ -1,29 +1,33 @@
-<h1 align="center">Hi 👋, I'm Tanish</h1>
-<h3 align="center">Cybersecurity Student | SOC Analyst | Penetration Tester</h3>
+# Tanish C
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Cybersecurity%20Professional-blue?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Area-SOC%20%7C%20Pentesting%20%7C%20Threat%20Intel-orange?style=for-the-badge&logo=security" />
-</p>
+**Cybersecurity Student | SOC Analyst | Penetration Tester**
 
 ---
 
-### 🧠 About Me
+## About Me
 
-- 🔐 Completed Cybersecurity Internship @ **Linearloop**
-- 🎓 Certifications:
-  - 🛡️ **TryHackMe**: Junior Penetration Tester, SOC Level 1  
-  - 📘 **Google**: Cybersecurity Professional Certificate  
-  - 🛰️ **EC-Council**: Certified Network Defender (CND)  
-  - ⏳ Preparing for: **CEH (Certified Ethical Hacker)**
-- 🛠️ Skilled in:
-  - **API Testing**, **SOC Operations**, **Log Monitoring**
-  - **Threat Intelligence**, **Penetration Testing**
-  - **Web Exploitation**, **Phishing Analysis**
+I am a cybersecurity professional with hands-on experience in SOC operations, threat analysis, and penetration testing. I recently completed a six-month internship at **Linearloop**, where I worked on log monitoring, phishing investigation, and threat intelligence tasks.
+
+### Certifications
+
+- TryHackMe: Junior Penetration Tester
+- TryHackMe: SOC Level 1
+- Google Cybersecurity Professional Certificate
+- EC-Council Certified Network Defender (CND)
+- *(CEH – in progress)*
+
+### Core Skills
+
+- SOC Operations  
+- Log Monitoring & Incident Analysis  
+- Threat Intelligence  
+- Phishing Analysis  
+- API Testing & Web Exploitation  
+- Penetration Testing
 
 ---
 
-### 🛠️ Tech & Tools
+## Technical Proficiencies
 
 ```bash
 Languages       : Java (basic), Python (basic)
