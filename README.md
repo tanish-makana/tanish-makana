@@ -1,6 +1,6 @@
 # Tanish C
 
-**Cybersecurity Student | SOC Analyst | Penetration Tester**
+**Cybersecurity Student | SOC Analyst | Penetration Tester | CTF Player**
 
 ---
 
