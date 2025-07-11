@@ -30,7 +30,7 @@ I am a cybersecurity professional with hands-on experience in SOC operations, th
 ## Technical Proficiencies
 
 ```bash
-Languages       : Java (basic), Python (basic)
+Languages       : Java (Intermediate), Python (basic)
 Security Tools  : Burp Suite, Wireshark, Snort, Splunk, ELK Stack, Sysmon, YARA
 Platforms       : Linux (Kali, Ubuntu), Windows
-Other Tools     : Git, Nessus, OpenVAS
+Other Tools     : Nessus, OpenVAS, Nikto
